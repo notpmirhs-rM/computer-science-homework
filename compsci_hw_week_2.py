@@ -83,4 +83,5 @@ def dataChoice():
         print("Input a valid choice")
         dataChoice()
 
+print("Welcome!")
 studentScores()
